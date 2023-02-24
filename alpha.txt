@@ -1,0 +1,2 @@
+this is alpha file
+this is second line from alpha file
